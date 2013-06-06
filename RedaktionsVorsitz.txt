@@ -1,0 +1,166 @@
+%META:TOPICINFO{author="MarkusMonderkamp" date="1364541602" format="1.1" reprev="1.119" version="1.119"}%
+%META:TOPICPARENT{name="GvG.InnenstadtGemeindebriefRedaktion"}%
+%STARTINCLUDE% <!-- Wert von aktuellenAusgabe aus techn. Gründen bitte immer im Format JJJJNR (NR = Nummer) setzen. //-->
+   * Set aktuelleAusgabe =  201303
+%STOPINCLUDE%
+
+
+---++ Redaktion des Krefelder Innenstadtgemeindebriefes "Gemeinden unterwegs"
+
+%TOC%
+
+---+++ aktuelle Ausgabe %aktuelleAusgabe% der "Gemeinden unterwegs"
+
+   * *[[PJ23.GuPB%aktuelleAusgabe%][allgemeiner Teil]]* - virtuelles Redaktionsbüro
+<!--
+   * [[LiebFrauen.GvGPB%aktuelleAusgabe%][Liebfrauen]]
+   * [[StDionysius.GvGPB%aktuelleAusgabe%][St. Dionysius]]
+   * [[StJosef.GvGPB%aktuelleAusgabe%][St. Josef]]
+   * [[StNorbertus.GvGPB%aktuelleAusgabe%][St. Norbertus]] 
+
+   * [[Missionen.GvGPB%aktuelleAusgabe%][ausländische Missionen]]
+//--> 
+   * GUSeitenUebersicht - Auflistung der Einzelseiten kurz vor Druck
+
+---+++ Termine von "Gemeinden unterwegs" der Krefelder Innenstadtgemeinden
+| *Ausgabenummer* | *Redaktionsschluss* | *Redaktionssitzung* | *Druck* | *Erscheinungstermin* | *Leitwort* |
+| 06/2013 | 09.11.2013 | Mo. 11.11.2013 | 16.11.2013 | 24.11.2013 | Gunda Hagens |
+| 05/2013 | 14.09.2013 | Mo. 16.09.2013 | 21.09.2013 | 29.09.2013 | Monika Wiedenau |
+| 04/2013 | 29.06.2013 | Mo. 01.07.2013 | 06.07.2013 | 14.07.2013 | Sr. Dorothée |
+| %RED% *[[PJ23.GuPB201301][03/2013]]* (in Arbeit) %ENDCOLOR% | 27.04.2013 | Mo. 29.04.2013 | 04.05.2013 | 12.05.2013 | Janny Broekhuizen |
+| [[PJ23.GuPB201301][02/2013]] | 09.03.2013 | Mo. 11.03.2013 | 16.03.2013 | 24.03.2013 | Pfr. Heinz Wans |
+| [[PJ23.GuPB201301][01/2013]] | 19.01.2013 | Mo. 21.01.2013 | 26.01.2013 | 03.02.2013 | Regina Huhnen |
+| [[PJ23.GuPB201206][06/2012]] | 03.11.2012 | Di. 06.11.2012 18.00 Uhr Breite-110| 10.11.2012 | 18.11.2012 | Ulrich Hagens |
+| [[PJ23.GuPB201205][05/2012]] | 25.08.2012 | Mo. 27.08.2012 | 01.09.2012 | 09.09.2012 | Regina Huhnen |
+| [[PJ23.GuPB201204][04/2012]] | 23.06.2012 | Mo. 25.06.2012 | 30.06.2012 | 08.07.2012 | Monika Wiedenau |
+| [[PJ23.GuPB201203][03/2012]] | 28.04.2012 | Mo. 30.04.2012 | 05.05.2012 | 13.05.2012 | Karl-Heinz Hermanns |
+| [[PJ23.GuPB201202][02/2012]] | 10.03.2012 | Mo. 12.03.2012 | 17.03.2012 | 25.03.2012 | Franz-Wilhelm Sturm |
+| [[PJ23.GuPB201201][01/2012]] | 28.01.2012 | Mo. 30.01.2012 | 04.02.2012 | 12.02.2012 | Dr. Claus Lücker |
+| [[PJ23.GuPB201106][06/2011]] | 05.11.2011 | Mo. 07.11.2011 | 11.11.2011 | 20.11.2011 | Sr. M. Dorothée |
+| [[PJ23.GuPB201105][05/2011]] | 10.09.2011 | Di. 13.09.2011 | 16.09.2011 | 25.09.2011 | Gunda Hagens |
+| [[PJ23.GuPB201104][04/2011]] | 09.07.2011 | Mo. 11.07.2011 | 15.07.2011 | 24.07.2011 | Regina Huhnen |
+| [[PJ23.GuPB201103][03/2011]] | 21.05.2011 | Mo. 23.05.2011 | 27.05.2011 | 05.06.2011 | Monika Wiedenau |
+| [[PJ23.GuPB201102][02/2011]] | 02.04.2011 | Di. 05.04.2011 | 08.04.2011 | 17.04.2011 | Pfr. Heinz Wans |
+| [[PJ23.GuPB201101][01/2011]] | 12.02.2011 | Di. 15.02.2010 | 18.02.2010 | 27.02.2011 | Ulrich Hagens |
+| [[PJ23.GuPB201006][06/2010]] | 06.11.2010 | Di. 09.11.2010 | 12.11.2010 | 21.11.2010 | Franz Wilhelm Sturm |
+| [[PJ23.GuPB201005][05/2010]] | 04.09.2010 | Di. 07.09.2010 | 10.09.2010 | 19.09.2010 | Gunda Hagens |
+| [[PJ23.GuPB201004][04/2010]] | 05.06.2010 | Di. 08.06.2010  | 11.06.2010 | 20.06.2010 | Regina Huhnen  |
+| [[PJ23.GuPB201003][03/2010]] | 10.04.2010 | Do. 15.04.2010 18.15 Uhr StN vor PGR | 16.04.2010 | 25.04.2010 | Monika Wiedenau |
+| [[PJ23.GuPB201002][02/2010]] | 06.02.2010 | Di. 09.02.2010 | 12.02.2010 | 21.02.2010 | Karl-Heinz Hermanns |
+| [[PJ23.GuPB201001][01/2010]] | 02.01.2010 | Do. 07.01.2010 | 08.01.2010 | 17.01.2010 | Karl-Heinz Hermanns |
+| [[PJ23.GuPB200907][07/2009]] | 07.11.2009 | Do. 12.11.2009 19.00 Uhr %BR% St. Dionysius | 13.11.2009 | 22.11.2009 | Sr. M. Dorothée |
+| [[PJ23.GuPB200906][06/2009]] | 26.09.2009 | Di. 29.09.2009 | 02.10.2009 | 11.10.2009 | Franz-Wilhelm Sturm |
+| [[PJ23.GuPB200905][05/2009]] | 15.08.2009 | Di. 18.08.2009 20.15 Uhr %BR%Jugendheim StN | 21.08.2009 | 30.08.2009 | Gunda Hagens |
+| [[PJ23.GuPB200904][04/2009]] | 06.06.2009 | Di. 09.06.2009 18.30 Uhr %BR%A.d.Josefkirche 4 | 12.06.2009 | 21.06.2009 | Karl-Heinz Hermanns |
+| [[PJ23.GuPB200903][03/2009]] | 11.04.2009 | Di. 14.04.2009 18.30 Uhr %BR%A.d.Josefkirche 4  | 17.04.2009 | 26.04.2009 | Monika Wiedenau %BR% (v. 03/2008) |
+| [[PJ23.GuPB200902][02/2009]] | 14.02.2009 | Di. 17.02.2009 18.45 Uhr Hofstr.2 | 21.02.2009 | 01.03.2009 | Pfr. Heinz Wans |
+| [[PJ23.GuPB200901][01/2009]] | 03.01.2009 | Do. 08.01.2009 18.30 Dio | 10.01.2009 | 18.01.2009 | Dr. Christoph Zettner |
+| [[PJ23.GuPB200806][06/2008]] | 01.11.2008 | Di. 04.11.2008 18.30 Uhr %BR%A.d.Josefkirche 4 | 08.11.2008 | 16.11.2008 | Diakon F.-W. Sturm |
+| [[PJ23.GuPB200805][05/2008]] | [[http://www.schulferien.org/Schulferien_nach_Ferien/Sommerferien/2008/sommerferien_2008.html][Sommerpause]] 06.09.2008 | Di. 09.09.2008 18.30 Uhr | 13.09.2008 | 21.09.2008 | Dr. Claus Lücker |
+| 04/2008 [[GvG.WahlSonderausgabe2008][Spezial2008]] | Sommer 2008 || 11.08.2008  | 17.08.2008 | Karl-Heinz Hermanns |
+| [[GvG.GvGPB200803][03/2008]] | 10.05.2008 | Di. 13.05.2008 18.30 Uhr%BR%(nach Pfingsten) in Dio | 17.05.2008 | 25.05.2008 | Pfr. Heinz Wans %BR% zur Fusion |
+| [[GvG.GvGPB200802][02/2008]] | 15.03.2008 | Di. 18.03.2008 18.30 Uhr | 22.03.2008 | 30.03.2008 | Dr. Christoph Zettner |
+| [[GvG.GvGPB200801][01/2008]] | 12.01.2008 | Di. 15.01.2008 19 Uhr | 19.01.2008 | 27.01.2008 | Heike Hupperten |
+| [[GvG.GvGPB200708][08/2007]] | 01.12.2007 | Di. 04.12.2007 18 Uhr BSH %BR% (Test auf Dienstag!) | 08.12.2007 | 16.12.2007 | Franz-Wilhelm Sturm |
+| [[GvG.GvGPB200707][07/2007]] | 20.10.2007 | Do. 25.10.2007 19 Uhr %BR% a.d.Josefkirche 4 | 27.10.2007 | 04.11.2007 | Monika Wiedenau |
+| [[GvG.GvGPB200706][06/2007]] | 08.09.2007 | 12.09.2007 20.00 Uhr BSH | 15.09.2007 | 23.09.2007 | Gunda Hagens |
+| [[GvG.GvGPB200705][05/2007]] | 28.07.2007 | 02.08.2007 19.00 Uhr BSH | 03.08.2007 | 12.08.2007 | Dr. Christoph Zettner |
+| [[GvG.GvGPB200704][04/2007]] | 18.05.2007 | 23.05.2007 20.00 Uhr Dio | 25.05.2007 | 03.06.2007 | Sr. M. Dorothée |
+| [[GvG.GvGPB200703][03/2007]] | 22.03.2006 | 26.03.2007 20.00 Uhr BSH | 28.03.2007 | 15.04.2007 | Pfr. Heinz Wans |
+| [[GvG.GvGPB200702][02/2007]] | 06.02.2006 | 08.02.2007 18.30 Uhr BSH | 14.02.2007 | 25.02.2007 | Marc Kubella |
+| [[GvG.GvGPB200701][01/2007]] | 27.12.2006 | 20.12.2006 19.30 Uhr Dio | 29.12.2006 | 14.01.2007 | Karl-Heinz Hermanns |
+| [[GvG.GvGPB200605][05/2006]] | 06.11.2006 || 15.11.2006 | 26.11.2006 | Dr. Claus F. Lücker |
+| [[GvG.GvGPB200604][04/2006]] | 15.08.2006 || 24.08.2006 | 03.09.2006 | Monika Wiedenau |
+| [[GvG.GvGPB200603][03/2006]] | 22.05.2006 || 31.05.2006 | 11.06.2006 | Franz-Wilhelm Sturm |
+| [[GvG.GvGPB200602][02/2006]] | 17.03.2006 || 29.03.2006 | 09.04.2006 | Dr. Christof Zettner |
+| [[GvG.GvGPB200601][01/2006]] | 03.02.2006 || 15.02.2006 | 19.02.2006 | Gunda Hagens |
+| [[GvG.GvGPB200501][01/2005]] | 11.2005 || 12.2005 | 12.2005 | Karl-Heinz Hermanns |
+
+---+++ Vorlagen einer konkreten Ausgabe der "Gemeinden unterwegs"
+ *Druckvorlagen* (für "Word oder Open-Office)
+
+<!--
+%STARTSECTION{"PJ23"}%
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-GEMEINDE-UNGERADE-Seite.doc][GUJJJJNN-Vorlage-GEMEINDE-UNGERADE-Seite.doc]]: Druckvorlage für ungerade Seite
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-GEMEINDE-GERADE-Seite.doc][GUJJJJNN-Vorlage-GEMEINDE-GERADE-Seite.doc]]: Druckvorlage für gerade Seite
+%ENDSECTION{"PJ23"}%
+
+%STARTSECTION{"GvG"}%
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-GEMEINDE-UNGERADE-Seite.doc][GUJJJJNN-Vorlage-GEMEINDE-UNGERADE-Seite.doc]]: Druckvorlage für ungerade Seite
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-GEMEINDE-GERADE-Seite.doc][GUJJJJNN-Vorlage-GEMEINDE-GERADE-Seite.doc]]: Druckvorlage für gerade Seite
+%ENDSECTION{"GvG"}%
+
+%STARTSECTION{"LiebFrauen"}%
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-Liebfrauen-UNGERADE-Seite.doc][GUJJJJNN-Vorlage-Liebfrauen-UNGERADE-Seite.doc]]: GUJJJJNN-Vorlage ungerade Seite Pfarre *Liebfrauen*
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-Liebfrauen-GERADE-Seite.doc][GUJJJJNN-Vorlage-Liebfrauen-GERADE-Seite.doc]]: GUJJJJNN-Vorlage gerade Seite Pfarre *Liebfrauen*
+%ENDSECTION{"LiebFrauen"}%
+
+%STARTSECTION{"StDionysius"}%
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-StDionysius-UNGERADE-Seite.doc][GUJJJJNN-Vorlage-StDionysius-UNGERADE-Seite.doc]]: GUJJJJNN-Vorlage ungerade Seite *St.Dionysius*
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-StDionysius-GERADE-Seite.doc][GUJJJJNN-Vorlage-StDionysius-GERADE-Seite.doc]]: GUJJJJNN-Vorlage gerade Seite *St.Dionysius*
+%ENDSECTION{"StDionysius"}%
+
+%STARTSECTION{"StJosef"}%
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-StJosef-UNGERADE-Seite.doc][GUJJJJNN-Vorlage-StJosef-UNGERADE-Seite.doc]]: GUJJJJNN-Vorlage ungerade Seite *St.Josef*
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-StJosef-GERADE-Seite.doc][GUJJJJNN-Vorlage-StJosef-GERADE-Seite.doc]]: GUJJJJNN-Vorlage gerade Seite *St.Josef*
+%ENDSECTION{"StJosef"}%
+
+%STARTSECTION{"StNorbertus"}%
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-StNorbertus-UNGERADE-Seite.doc][GUJJJJNN-Vorlage-StNorbertus-UNGERADE-Seite.doc]]: GUJJJJNN-Vorlage ungerade Seite *St.Norbertus*
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-StNorbertus-GERADE-Seite.doc][GUJJJJNN-Vorlage-StNorbertus-GERADE-Seite.doc]]: GUJJJJNN-Vorlage gerade Seite *St.Norbertus*
+%ENDSECTION{"StNorbertus"}%
+
+%STARTSECTION{"Missionen"}%
+   * [[%ATTACHURL%/GUJJJJNN-Vorlage-Missionen-GERADE-Seite.doc][GUJJJJNN-Vorlage-Missionen-GERADE-Seite.doc]]: GUJJJJNN-Vorlage gerade Seite ausl. Missionen
+%ENDSECTION{"Missionen"}%
+//-->
+
+   * [[%ATTACHURL%/GUJJJJNN-alleVorlagen-Seiten.doc][GUJJJJNN-alleVorlagen-Seiten.doc]]: *alle* Seitenvorlagen der Lokalredaktionen in *einer* Word-Datei (auch für das freie [[http://de.openoffice.org/][OpenOffice]] geeignet)
+%STARTSECTION{"WikiGUVorlage"}% *Wiki-Vorlage* (für das Redaktionssystem)
+
+   * Folgende Web-Vorlage dient zum erstmalige Anlegen des Rohtextes für eine aktuelle Wiki-Seite in den einzelnen Lokalredaktionen: %BR% [[%SCRIPTURLPATH%/view/GvG/GvGPfarrbriefAusgabeTemplate?raw=on][Ausgabe NN/JJJJ]] mit _JJJJ_ =vierstelliges Jahresdatum und _NN_ =Nr. der Ausgabe, z.B. _200702_ f. 2.Ausgabe 2007
+%ENDSECTION{"WikiGUVorlage"}%
+
+---+++ bisherige Ausgaben (allgemeiner Teil)
+ <!-- GvGPfarrbriefArchiv //-->
+
+Hier eine automatische Auflistung der bisher verfügbaren allgemeinen Teile im Innenstadtpfarrbrief "Gemeinden unterwegs":
+
+| *allgemeine Teile der Gemeinde PJ-23.* |
+%TABLE{sort="on" initsort="1" initdirection="up" dataalign="left"}% 
+%SEARCH{"GuPB.{6}" type="regex" scope="topic" nosearch="on" nosummary="on" nototal="on" noheader="on" web="PJ23"  format="|[[$web.$topic][ $pattern(.*?GuPB(.{6}).*) ]] |"}%
+
+| *allgemeine Teile der ehem. !GdG* |
+%TABLE{sort="on" initsort="1" initdirection="up" dataalign="left"}% 
+%SEARCH{"GvGPB.{6}" type="regex" scope="topic" nosearch="on" nosummary="on" nototal="on" noheader="on" web="GvG"  format="|[[$web.$topic][ $pattern(.*?GvGPB(.{6}).*) ]] |"}%
+
+---
+Short-Link dieser Seite: http://bit.ly/SyRpnE (erstellt am 14.01.2013)
+<!-- strike> Short-Link dieser Seite: http://www.short-link.de/9182 (erstellt am 01.01.2009)</strike //--> 
+
+
+<!--   * QR-Code für Mobiltelefone mit Kamera und Webzugriff: <br />
+     <img src="%ATTACHURLPATH%/GU-QR_von_goqr-me.png" alt="GU-QR_von_goqr-me.png" width='266' height='296' /> 
+Die Domäne short-links.de ist am 14.01.2013 nicht mehr in Betrieb
+//-->
+
+---
+
+   * Set ALLOWTOPICCHANGE = Main.GuRedaktionsGroup
+   * #Set ALLOWTOPICVIEW = Main.GuRedaktionsGroup
+
+
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-GEMEINDE-GERADE-Seite.doc" attr="" autoattached="1" comment="Druckvorlage für gerade Seite" date="1171292499" path="GUJJJJNN-Vorlage-GEMEINDE-GERADE-Seite.doc" size="27136" user="Main.MarkusMonderkamp" version="1"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-StDionysius-UNGERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage ungerade Seite St.Dionysius" date="1181123503" path="GUJJJJNN-Vorlage-StDionysius-UNGERADE-Seite.doc" size="68608" user="Main.MarkusMonderkamp" version="3"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-StJosef-GERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage gerade Seite St.Josef" date="1172677095" path="GUJJJJNN-Vorlage-StJosef-GERADE-Seite.doc" size="616448" user="Main.MarkusMonderkamp" version="1"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-StDionysius-GERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage gerade Seite St.Dionysius" date="1172677023" path="GUJJJJNN-Vorlage-StDionysius-GERADE-Seite.doc" size="64512" user="Main.MarkusMonderkamp" version="1"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-Missionen-GERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage gerade Seite ausl. Missionen" date="1172677232" path="GUJJJJNN-Vorlage-Missionen-GERADE-Seite.doc" size="49152" user="Main.MarkusMonderkamp" version="1"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-alleVorlagen-Seiten.doc" attr="" autoattached="1" comment="alle Seitenvorlagen in einer Word-Datei" date="1172831925" path="GUJJJJNN-alleVorlagen-Seiten.doc" size="1253888" user="Main.MarkusMonderkamp" version="1"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-StNorbertus-UNGERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage ungerade Seite St.Norbertus" date="1181123585" path="GUJJJJNN-Vorlage-StNorbertus-UNGERADE-Seite.doc" size="183808" user="Main.MarkusMonderkamp" version="2"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-StNorbertus-GERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage gerade Seite St.Norbertus" date="1172677190" path="GUJJJJNN-Vorlage-StNorbertus-GERADE-Seite.doc" size="296448" user="Main.MarkusMonderkamp" version="1"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-Liebfrauen-GERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage gerade Seite Pfarre Liebfrauen" date="1172676915" path="GUJJJJNN-Vorlage-Liebfrauen-GERADE-Seite.doc" size="115712" user="Main.MarkusMonderkamp" version="1"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-Liebfrauen-UNGERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage ungerade Seite Pfarre Liebfrauen" date="1181123432" path="GUJJJJNN-Vorlage-Liebfrauen-UNGERADE-Seite.doc" size="115712" user="Main.MarkusMonderkamp" version="2"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-StJosef-UNGERADE-Seite.doc" attr="" autoattached="1" comment="GUJJJJNN-Vorlage ungerade Seite St.Josef" date="1181123552" path="GUJJJJNN-Vorlage-StJosef-UNGERADE-Seite.doc" size="618496" user="Main.MarkusMonderkamp" version="3"}%
+%META:FILEATTACHMENT{name="GUJJJJNN-Vorlage-GEMEINDE-UNGERADE-Seite.doc" attr="" autoattached="1" comment="Druckvorlage für ungerade Seite" date="1181123406" path="GUJJJJNN-Vorlage-GEMEINDE-UNGERADE-Seite.doc" size="27136" user="Main.MarkusMonderkamp" version="2"}%
+%META:FILEATTACHMENT{name="GU-QR_von_goqr-me.png" attachment="GU-QR_von_goqr-me.png" attr="" comment="QR-Code für Mobiltelefone mit Kamera und Webzugriff" date="1344754512" path="GU-QR_von_goqr-me.png" size="3737" stream="IO::File=GLOB(0x8c1cb44)" tmpFilename="/usr/tmp/CGItemp22352" user="MarkusMonderkamp" version="1"}%
+%META:TOPICMOVED{by="MarkusMonderkamp" date="1220685398" from="GvG.RedaktionsVorsitz" to="PJ23.RedaktionsVorsitz"}%
